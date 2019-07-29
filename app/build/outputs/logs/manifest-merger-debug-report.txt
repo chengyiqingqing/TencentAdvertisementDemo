@@ -1,0 +1,652 @@
+-- Merging decision tree log ---
+manifest
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:2:1-423:12
+INJECTED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:2:1-423:12
+INJECTED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:2:1-423:12
+INJECTED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:2:1-423:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\2181a9a98e875c1241370d91205e8656\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\b495f1f5a8b771f44c2a467ccf38cf98\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\c4d25066d53e9b24e21832ecebf74870\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\86c45ea1da537ad4259051076b67f88c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\96c1b736ce2e670144e6a9dbb5e70b0e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\42a9aa25ee33a4e4abcd1d48363165ce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\48afcf18201e50143fd31d15dfcb408f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\2269b6654f82494c00ccd51790a7a5ba\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\e0a92660d37b7b1940263d3239bc7774\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\cc97e960173a42493dc3f8d17fd4ce00\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\60a282b8d247b95af1a9c6b697d4640e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\c002d74fa45e905e1f290a6f3b512e23\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\788f51882258f218d96dc2c2eb3b7a3c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\f170203728d32c06cdd2cccd585d526b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\59f2db48098db0c9a210cbd24360a6aa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\08f9c2eaca50595246ae38395fa799be\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\f61b3f53c4219437c9c9328626e9abab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\71ce107ed28dcc7c977f804ff49bf922\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\583efdc5caec578569ae34a476a36937\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\90c0f813de6d491f5e13ac8897212c14\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\aea8e7cc2b3c09f5ffbbff4791659d79\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\3bbba911331a93679b91bd840bd62d70\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\146bd14fb779ac8d51adfad57f4d78ef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\d03d7be33f9c81c88281dfbee5f78d7e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\dd800448d183e6eb6b0b5d28b6835dfd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\51416b1a4aa7ad5e2e973fe002b47cfd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\f061f736370da7c55cdc218d09f3edb6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\3d5a563efbd88172ea1977c88b27a5a7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\af0c785f77b5f3e6f048d9c11730fc4c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\deaf243e9f49c40c216eac0be2904d34\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\b859c149f920df432e4de97010f12edf\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\6c1660fc1e11c66bb49e5004c74f27c5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b2f08568158d4789888b79d20e322ecf\AndroidManifest.xml:17:1-22:12
+INJECTED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:2:1-423:12
+INJECTED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:2:1-423:12
+INJECTED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:2:1-423:12
+	package
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml
+		INJECTED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml
+		INJECTED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml
+		INJECTED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:11:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:12:22-72
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:16:5-83
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:16:22-80
+application
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:18:5-421:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\b495f1f5a8b771f44c2a467ccf38cf98\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\b495f1f5a8b771f44c2a467ccf38cf98\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\96c1b736ce2e670144e6a9dbb5e70b0e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\96c1b736ce2e670144e6a9dbb5e70b0e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\aea8e7cc2b3c09f5ffbbff4791659d79\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\aea8e7cc2b3c09f5ffbbff4791659d79\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\3bbba911331a93679b91bd840bd62d70\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\3bbba911331a93679b91bd840bd62d70\AndroidManifest.xml:22:5-23:19
+	android:label
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:22:9-41
+	android:appComponentFactory
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:20:9-82
+	android:icon
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:21:9-41
+	android:theme
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:23:9-40
+	android:usesCleartextTraffic
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:19:9-59
+meta-data#com.tencent.rdm.uuid
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:25:9-27:68
+	android:value
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:27:13-65
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:26:13-48
+activity#com.qq.e.union.demo.SplashADActivity
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:29:9-47:20
+	android:screenOrientation
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:31:13-49
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:30:13-64
+intent-filter#action:name:gdt.action.LAUNCH_DEMO+category:name:android.intent.category.DEFAULT
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:32:13-36:29
+action#gdt.action.LAUNCH_DEMO
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:33:17-65
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:33:25-62
+category#android.intent.category.DEFAULT
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:35:27-73
+meta-data#id
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:38:13-40:50
+	android:value
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:40:17-47
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:39:17-34
+meta-data#content
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:41:13-43:44
+	android:value
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:43:17-41
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:42:17-39
+meta-data#action
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:44:13-46:58
+	android:value
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:46:17-55
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:45:17-38
+activity#com.qq.e.union.demo.BannerActivity
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:48:9-67:20
+	android:label
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:50:13-58
+	android:windowSoftInputMode
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:51:13-72
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:49:13-62
+intent-filter#action:name:gdt.action.BANNER_DEMO+category:name:android.intent.category.DEFAULT
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:62:13-66:29
+action#gdt.action.BANNER_DEMO
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:63:17-65
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:63:25-62
+activity#com.qq.e.union.demo.InterstitialADActivity
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:68:9-87:20
+	android:label
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:70:13-67
+	android:windowSoftInputMode
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:71:13-72
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:69:13-70
+intent-filter#action:name:gdt.action.INTERSTITIAL_DEMO+category:name:android.intent.category.DEFAULT
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:82:13-86:29
+action#gdt.action.INTERSTITIAL_DEMO
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:83:17-71
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:83:25-68
+activity#com.qq.e.union.demo.DeviceInfoActivity
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:88:9-91:75
+	android:label
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:90:13-63
+	android:windowSoftInputMode
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:91:13-72
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:89:13-66
+activity#com.qq.e.union.demo.NativeADActivity
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:92:9-112:20
+	android:screenOrientation
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:95:13-49
+	android:label
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:94:13-51
+	android:windowSoftInputMode
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:96:13-72
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:93:13-64
+intent-filter#action:name:gdt.action.NATIVE_SELF_DEMO+category:name:android.intent.category.DEFAULT
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:107:13-111:29
+action#gdt.action.NATIVE_SELF_DEMO
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:108:17-70
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:108:25-67
+activity#com.qq.e.union.demo.MultiProcessNativeADActivity
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:113:9-134:20
+	android:screenOrientation
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:117:13-49
+	android:process
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:116:13-40
+	android:label
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:115:13-51
+	android:windowSoftInputMode
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:118:13-72
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:114:13-76
+intent-filter#action:name:gdt.action.NATIVE_SELF_MP_DEMO+category:name:android.intent.category.DEFAULT
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:129:13-133:29
+action#gdt.action.NATIVE_SELF_MP_DEMO
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:130:17-73
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:130:25-70
+activity#com.qq.e.union.demo.NativeVideoListDemoActivity
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:135:9-138:52
+	android:screenOrientation
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:138:13-49
+	android:label
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:137:13-70
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:136:13-75
+activity#com.qq.e.union.demo.NativeVideoDemoActivity
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:139:9-142:52
+	android:screenOrientation
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:142:13-49
+	android:label
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:141:13-69
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:140:13-71
+activity#com.qq.e.union.demo.NativeVideoADActivity
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:143:9-163:20
+	android:screenOrientation
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:146:13-49
+	android:label
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:145:13-67
+	android:windowSoftInputMode
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:147:13-72
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:144:13-69
+intent-filter#action:name:gdt.action.NATIVE_VIDEO_DEMO+category:name:android.intent.category.DEFAULT
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:158:13-162:29
+action#gdt.action.NATIVE_VIDEO_DEMO
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:159:17-71
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:159:25-68
+activity#com.qq.e.union.demo.NativeVideoRecyclerViewActivity
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:164:9-167:52
+	android:screenOrientation
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:167:13-49
+	android:label
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:166:13-78
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:165:13-79
+activity#com.qq.e.union.demo.NativeVideoScrollViewActivity
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:168:9-172:63
+	android:screenOrientation
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:171:13-49
+	android:label
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:170:13-76
+	android:theme
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:172:13-60
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:169:13-77
+activity#com.qq.e.union.demo.NativeVideoPreMovieActivity
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:173:9-177:63
+	android:label
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:176:13-74
+	android:configChanges
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:175:13-83
+	android:theme
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:177:13-60
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:174:13-75
+activity#com.qq.e.union.demo.NativeExpressADActivity
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:178:9-198:20
+	android:screenOrientation
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:181:13-49
+	android:label
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:180:13-69
+	android:windowSoftInputMode
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:182:13-72
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:179:13-71
+intent-filter#action:name:gdt.action.NATIVE_EXPRESS_DEMO+category:name:android.intent.category.DEFAULT
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:193:13-197:29
+action#gdt.action.NATIVE_EXPRESS_DEMO
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:194:17-73
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:194:25-70
+activity#com.qq.e.union.demo.NativeExpressDemoActivity
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:199:9-204:57
+	android:screenOrientation
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:203:13-49
+	android:label
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:202:13-71
+	android:windowSoftInputMode
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:204:13-54
+	android:configChanges
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:201:13-83
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:200:13-73
+activity#com.qq.e.union.demo.NativeExpressRecyclerViewActivity
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:205:9-209:52
+	android:screenOrientation
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:209:13-49
+	android:label
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:208:13-80
+	android:configChanges
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:207:13-83
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:206:13-81
+activity#com.qq.e.union.demo.NativeADUnifiedActivity
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:210:9-231:20
+	android:screenOrientation
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:214:13-49
+	android:label
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:213:13-71
+	android:windowSoftInputMode
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:215:13-54
+	android:configChanges
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:212:13-83
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:211:13-71
+intent-filter#action:name:gdt.action.NATIVE_CONTAINER+category:name:android.intent.category.DEFAULT
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:226:13-230:29
+action#gdt.action.NATIVE_CONTAINER
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:227:17-70
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:227:25-67
+activity#com.qq.e.union.demo.NativeADUnifiedSampleActivity
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:232:9-235:74
+	android:label
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:235:13-71
+	android:configChanges
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:234:13-83
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:233:13-77
+activity#com.qq.e.union.demo.NativeADUnifiedListViewActivity
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:236:9-240:52
+	android:screenOrientation
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:240:13-49
+	android:label
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:239:13-71
+	android:configChanges
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:238:13-83
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:237:13-79
+activity#com.qq.e.union.demo.NativeADUnifiedRecyclerViewActivity
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:241:9-245:52
+	android:screenOrientation
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:245:13-49
+	android:label
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:244:13-71
+	android:configChanges
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:243:13-83
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:242:13-83
+activity#com.qq.e.union.demo.NativeADUnifiedPreMovieActivity
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:246:9-249:74
+	android:label
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:249:13-71
+	android:configChanges
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:248:13-83
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:247:13-79
+activity#com.qq.e.union.demo.NativeADUnifiedFullScreenActivity
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:250:9-255:63
+	android:screenOrientation
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:254:13-49
+	android:label
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:253:13-71
+	android:configChanges
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:252:13-83
+	android:theme
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:255:13-60
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:251:13-81
+activity#com.qq.e.union.demo.NativeADUnifiedFullScreenFeedActivity
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:256:9-261:63
+	android:screenOrientation
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:260:13-49
+	android:label
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:259:13-71
+	android:configChanges
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:258:13-83
+	android:theme
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:261:13-60
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:257:13-85
+activity#com.qq.e.union.demo.ContentADActivity
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:262:9-282:20
+	android:screenOrientation
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:265:13-49
+	android:label
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:264:13-52
+	android:windowSoftInputMode
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:266:13-72
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:263:13-65
+intent-filter#action:name:gdt.action.CONTENT_DEMO+category:name:android.intent.category.DEFAULT
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:277:13-281:29
+action#gdt.action.CONTENT_DEMO
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:278:17-66
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:278:25-63
+activity#com.qq.e.union.demo.RewardVideoActivity
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:283:9-304:20
+	android:screenOrientation
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:287:13-49
+	android:label
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:286:13-55
+	android:windowSoftInputMode
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:288:13-72
+	android:configChanges
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:285:13-83
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:284:13-67
+intent-filter#action:name:gdt.action.REWARD_VIDEO_DEMO+category:name:android.intent.category.DEFAULT
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:299:13-303:29
+action#gdt.action.REWARD_VIDEO_DEMO
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:300:17-71
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:300:25-68
+activity#com.qq.e.union.demo.HybridADActivity
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:305:9-326:20
+	android:screenOrientation
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:309:13-49
+	android:label
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:308:13-49
+	android:windowSoftInputMode
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:310:13-72
+	android:configChanges
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:307:13-83
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:306:13-64
+intent-filter#action:name:gdt.action.HYBRID_DEMO+category:name:android.intent.category.DEFAULT
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:321:13-325:29
+action#gdt.action.HYBRID_DEMO
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:322:17-65
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:322:25-62
+activity#com.qq.e.union.demo.UnifiedBannerActivity
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:327:9-347:20
+	android:label
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:330:13-66
+	android:windowSoftInputMode
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:331:13-72
+	android:configChanges
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:329:13-83
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:328:13-69
+intent-filter#action:name:gdt.action.UNIFIED_BANNER_DEMO+category:name:android.intent.category.DEFAULT
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:342:13-346:29
+action#gdt.action.UNIFIED_BANNER_DEMO
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:343:17-73
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:343:25-70
+activity#com.qq.e.union.demo.UnifiedInterstitialADActivity
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:348:9-368:20
+	android:label
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:351:13-75
+	android:windowSoftInputMode
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:352:13-72
+	android:configChanges
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:350:13-83
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:349:13-77
+intent-filter#action:name:gdt.action.UNIFIED_INTERSTITIAL_DEMO+category:name:android.intent.category.DEFAULT
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:363:13-367:29
+action#gdt.action.UNIFIED_INTERSTITIAL_DEMO
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:364:17-79
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:364:25-76
+uses-library#org.apache.http.legacy
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:370:9-372:40
+	android:required
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:372:13-37
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:371:13-50
+provider#android.support.v4.content.FileProvider
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:373:9-381:20
+	android:grantUriPermissions
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:377:13-47
+	android:authorities
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:375:13-67
+	android:exported
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:376:13-37
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:374:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:378:13-380:57
+	android:resource
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:380:17-54
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:379:17-67
+service#com.qq.e.comm.DownloadService
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:382:9-384:40
+	android:exported
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:384:13-37
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:383:13-57
+activity#com.qq.e.ads.ADActivity
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:385:9-387:86
+	android:configChanges
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:387:13-83
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:386:13-51
+activity#com.qq.e.ads.PortraitADActivity
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:388:9-391:52
+	android:screenOrientation
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:391:13-49
+	android:configChanges
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:390:13-83
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:389:13-59
+activity#com.qq.e.ads.LandscapeADActivity
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:392:9-395:53
+	android:screenOrientation
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:395:13-50
+	android:configChanges
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:394:13-83
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:393:13-60
+activity#com.qq.e.union.demo.DemoListActivity
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:396:9-408:20
+	android:screenOrientation
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:401:13-49
+	android:label
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:399:13-60
+	android:launchMode
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:400:13-44
+	android:windowSoftInputMode
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:402:13-72
+	android:exported
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:398:13-36
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:397:13-64
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:403:13-407:29
+action#android.intent.action.VIEW
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:404:17-69
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:404:25-66
+activity#com.qq.e.union.demo.SplashActivity
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:409:9-420:20
+	android:screenOrientation
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:412:13-49
+	android:windowSoftInputMode
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:414:13-54
+	android:configChanges
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:411:13-83
+	android:theme
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:413:13-71
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:410:13-62
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:415:13-419:29
+action#android.intent.action.MAIN
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:416:17-69
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:416:25-66
+category#android.intent.category.LAUNCHER
+ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:418:17-77
+	android:name
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml:418:27-74
+uses-sdk
+INJECTED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml
+INJECTED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\2181a9a98e875c1241370d91205e8656\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\2181a9a98e875c1241370d91205e8656\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\b495f1f5a8b771f44c2a467ccf38cf98\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\b495f1f5a8b771f44c2a467ccf38cf98\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\c4d25066d53e9b24e21832ecebf74870\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\c4d25066d53e9b24e21832ecebf74870\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\86c45ea1da537ad4259051076b67f88c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\86c45ea1da537ad4259051076b67f88c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\96c1b736ce2e670144e6a9dbb5e70b0e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\96c1b736ce2e670144e6a9dbb5e70b0e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\42a9aa25ee33a4e4abcd1d48363165ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\42a9aa25ee33a4e4abcd1d48363165ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\48afcf18201e50143fd31d15dfcb408f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\48afcf18201e50143fd31d15dfcb408f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\2269b6654f82494c00ccd51790a7a5ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\2269b6654f82494c00ccd51790a7a5ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\e0a92660d37b7b1940263d3239bc7774\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\e0a92660d37b7b1940263d3239bc7774\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\cc97e960173a42493dc3f8d17fd4ce00\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\cc97e960173a42493dc3f8d17fd4ce00\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\60a282b8d247b95af1a9c6b697d4640e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\60a282b8d247b95af1a9c6b697d4640e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\c002d74fa45e905e1f290a6f3b512e23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\c002d74fa45e905e1f290a6f3b512e23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\788f51882258f218d96dc2c2eb3b7a3c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\788f51882258f218d96dc2c2eb3b7a3c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\f170203728d32c06cdd2cccd585d526b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\f170203728d32c06cdd2cccd585d526b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\59f2db48098db0c9a210cbd24360a6aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\59f2db48098db0c9a210cbd24360a6aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\08f9c2eaca50595246ae38395fa799be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\08f9c2eaca50595246ae38395fa799be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\f61b3f53c4219437c9c9328626e9abab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\f61b3f53c4219437c9c9328626e9abab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\71ce107ed28dcc7c977f804ff49bf922\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\71ce107ed28dcc7c977f804ff49bf922\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\583efdc5caec578569ae34a476a36937\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\583efdc5caec578569ae34a476a36937\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\90c0f813de6d491f5e13ac8897212c14\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\90c0f813de6d491f5e13ac8897212c14\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\aea8e7cc2b3c09f5ffbbff4791659d79\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\aea8e7cc2b3c09f5ffbbff4791659d79\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\3bbba911331a93679b91bd840bd62d70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\3bbba911331a93679b91bd840bd62d70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\146bd14fb779ac8d51adfad57f4d78ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\146bd14fb779ac8d51adfad57f4d78ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\d03d7be33f9c81c88281dfbee5f78d7e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\d03d7be33f9c81c88281dfbee5f78d7e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\dd800448d183e6eb6b0b5d28b6835dfd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\dd800448d183e6eb6b0b5d28b6835dfd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\51416b1a4aa7ad5e2e973fe002b47cfd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\51416b1a4aa7ad5e2e973fe002b47cfd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\f061f736370da7c55cdc218d09f3edb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\f061f736370da7c55cdc218d09f3edb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\3d5a563efbd88172ea1977c88b27a5a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\3d5a563efbd88172ea1977c88b27a5a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\af0c785f77b5f3e6f048d9c11730fc4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\af0c785f77b5f3e6f048d9c11730fc4c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\deaf243e9f49c40c216eac0be2904d34\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\deaf243e9f49c40c216eac0be2904d34\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\b859c149f920df432e4de97010f12edf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\b859c149f920df432e4de97010f12edf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\6c1660fc1e11c66bb49e5004c74f27c5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\6c1660fc1e11c66bb49e5004c74f27c5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b2f08568158d4789888b79d20e322ecf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b2f08568158d4789888b79d20e322ecf\AndroidManifest.xml:20:5-44
+INJECTED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml
+INJECTED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml
+		INJECTED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml
+		ADDED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml
+		INJECTED from I:\testwork\GDT_union_Android_SDK_4.63.933\Demo\app\src\main\AndroidManifest.xml
